@@ -1,4 +1,6 @@
 # Unleashed Recompiled SnapCubes Cool Edge Vocal Song
+![SnapCube singing](https://github.com/user-attachments/assets/b32707af-d2a2-4b45-8106-22d79321552b)
+
 
 ## Info
 A simple mod that replaces the Cool Edge day song with the vocal Cool Edge cover made by SnapCube.
