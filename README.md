@@ -1,8 +1,8 @@
 # Unleashed Recompiled Cool Edge Vocal Song
-A simple mod that replaces the Cool Edge day song with the vocal Cool Edge cover made by SnapCube.
+A simple mod that replaces the Cool Edge day song with the vocal Cool Edge cover made by SnapCube
 
 ## Install Guide
-Just add the zip found in the [release page](https://www.google.com) into your mod manager. 
+Just add the zip found in the [release page](https://www.google.com) into your mod manager
 
 My mods target the Unleashed Recompilation as it is the most accessible version, and may not work on other platforms
 
